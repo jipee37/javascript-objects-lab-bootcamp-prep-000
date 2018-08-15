@@ -1,5 +1,5 @@
 function Objects(){
-  const recipes = {}
+  const recipes = {prop: 1}
   return recipes
 }
 
